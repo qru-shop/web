@@ -41,8 +41,8 @@ document.getElementById("contact-form").addEventListener("submit", async (e) => 
   const mensaje = document.getElementById("mensaje").value;
 
   const payload = {
-    username: "QRew web",
-    avatar_url: "https://raw.githubusercontent.com/QRew-shop/web/refs/heads/main/docs/imagenes/logo.png",
+    username: "QRU web",
+    avatar_url: "https://raw.githubusercontent.com/QRU-shop/web/refs/heads/main/docs/imagenes/logo.png",
     content: "<@&1447273719113453771>", // texto fuera del embed
     embeds: [
       {
@@ -55,7 +55,7 @@ document.getElementById("contact-form").addEventListener("submit", async (e) => 
         ],
         timestamp: new Date().toISOString(),
         footer: {
-          text: "Formulario QRew"
+          text: "Formulario QRU"
         }
       }
     ]
@@ -103,8 +103,7 @@ document.getElementById("contact-form").addEventListener("submit", async (e) => 
   let emailOK = false;
 
   try {
-    await emailjs.send("service_1oxi215", "template_o1seluh", emailParams);
-    await emailjs.send("service_1oxi215", "template_9n8ymil", emailParams);
+    await emailjs.send("service_b10z6dj", "template_19b1b76", emailParams);
     emailOK = true;
   } catch (err) {
     emailOK = false;
@@ -112,11 +111,11 @@ document.getElementById("contact-form").addEventListener("submit", async (e) => 
 
   // RESULTADO FINAL
   if (webhookOK && emailOK) {
-    document.getElementById("statusMsg").innerText = "✅ Mensaje enviado. Revisa tu correo en la carpeta de spam.";
+    document.getElementById("statusMsg").innerText = "✅ Mensaje enviado. Revisa tu correo y en la carpeta de spam.";
   } else if (webhookOK && !emailOK) {
     document.getElementById("statusMsg").innerText = "⚠️ Mensaje enviado, pero no hemos podido enviarte un correo.";
   } else if (!webhookOK && emailOK) {
-    document.getElementById("statusMsg").innerText = "✅ Mensaje enviado. Revisa tu correo en la carpeta de spam.";
+    document.getElementById("statusMsg").innerText = "✅ Mensaje enviado. Revisa tu correo y en la carpeta de spam.";
   } else {
     document.getElementById("statusMsg").innerText = "❌ No se pudo enviar el mensaje.";
   }
