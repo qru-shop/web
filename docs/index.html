@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QRew | Tienda de Camisetas</title>
+  <link rel="stylesheet" href="css/index.css">
+  <link rel="icon" type="image/png" href="imagenes/logo.png">
+  <script src="js/analytics.js"></script>
+</head>
+
+<body>
+  <style>
+    .hero {
+      background: url("imagenes/fondo.png") center/cover no-repeat;
+    }
+  </style>
+  <header>
+    <nav class="navbar">
+      <div class="logo"><a href="#home" class="logo-link"><img src="imagenes/logo_texto.png" alt="Logo"
+            class="logo"></a>
+      </div>
+      <ul class="nav-links">
+        <li><a href="#home">Inicio</a></li>
+        <li><a href="catalogo.html">Catálogo</a></li>
+        <li><a href="#about">Nosotros</a></li>
+        <li><a href="#contact">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <h1>Viste con estilo, sé parte del <span>QRew</span></h1>
+      <p>Camisetas únicas, cómodas y modernas.</p>
+      <a href="#catalogo" class="btn">Explorar colección</a>
+    </div>
+  </section>
+
+  <section id="catalogo" class="catalogo">
+    <h2>Nuestro Catálogo</h2>
+    <a href="catalogo.html" class="btn">Ver tienda completa</a>
+    <h4>Nuestros diseños destacados</h4>
+    <div class="product-grid" id="product-grid"></div>
+  </section>
+
+  <section id="about" class="about">
+    <h2>Sobre Nosotros</h2>
+    <p>
+      En <strong>QRew</strong>, creemos que la ropa es una forma de expresión.
+      Diseñamos camisetas que combinan comodidad, estilo y sostenibilidad.
+      Cada prenda refleja nuestra pasión por el arte urbano y la cultura juvenil.
+    </p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contacto</h2>
+    <form id="contact-form">
+      <input type="text" id="nombre" placeholder="Nombre" required>
+      <input type="email" id="email" placeholder="Correo electrónico" required>
+      <textarea id="mensaje" placeholder="Mensaje" required></textarea>
+      <button type="submit" class="btn">Enviar</button>
+    </form>
+    <p id="statusMsg"></p>
+  </section>
+
+  <footer>
+    <p>© 2025 QRew. Todos los derechos reservados.</p>
+    <div class="socials">
+      <a href="https://www.instagram.com/qrew.es/"> Instagram 📸</a>
+      <a href="https://x.com/QRew_es">Twitter/X 🐦</a>
+      <a href="https://www.tiktok.com/@qrew_es">Tiktok 🎵</a>
+    </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+  <script>
+    emailjs.init("2RpGSdUzLlcdxSaKk");
+  </script>
+  <script src="js/index.js"></script>
+</body>
+
+</html>

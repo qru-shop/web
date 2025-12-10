@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QRew | Error 404</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="icon" type="image/png" href="imagenes/logo.png">
+    <script src="js/analytics.js"></script>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Poppins", sans-serif;
+            background: url("imagenes/fondo.png") center/cover no-repeat;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #fff;
+            text-align: center;
+            transition: opacity 0.8s ease, transform 0.8s ease;
+            flex-direction: column;
+        }
+
+        header {
+            flex-shrink: 0;
+        }
+
+        body.fade-out {
+            opacity: 0;
+            transform: scale(0.95);
+        }
+
+        .container-404 {
+            backdrop-filter: blur(6px);
+            background: rgba(0, 0, 0, 0.4);
+            padding: 40px;
+            border-radius: 20px;
+            max-width: 600px;
+            margin-top: auto;
+            /* Centra verticalmente sin ocupar todo */
+            margin-bottom: auto;
+        }
+
+        .container-404 h1 {
+            font-size: 100px;
+            margin: 0;
+            color: #ff4747;
+            font-weight: 800;
+        }
+
+        .container-404 p {
+            font-size: 20px;
+            margin: 10px 0 25px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 25px;
+            background: #ff4747;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 18px;
+            transition: 0.3s ease;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background: #ff2626;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--secondary);
+            color: white;
+            text-align: center;
+            padding: 1.5rem;
+            width: 100%;
+        }
+
+        .socials a {
+            color: rgb(84, 182, 214);
+            margin: 0 0.5rem;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo"><a href="index.html" class="logo-link"><img src="imagenes/logo_texto.png" alt="Logo"
+                        class="logo"></a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="catalogo.html">Catálogo</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container-404">
+        <h1>404</h1>
+        <p>La página que buscas no existe o ha sido movida.</p> <a href="index.html" class="btn">Volver al inicio</a>
+    </div>
+    <footer>
+        <p>© 2025 QRew. Todos los derechos reservados.</p>
+        <div class="socials">
+            <a href="https://www.instagram.com/qrew.es/"> Instagram 📸</a>
+            <a href="https://x.com/QRew_es">Twitter/X 🐦</a>
+            <a href="https://www.tiktok.com/@qrew_es">Tiktok 🎵</a>
+        </div>
+    </footer>
+</body>
+
+</html>

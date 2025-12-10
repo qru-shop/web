@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Camiseta Blanca",
+        "price": "19.99",
+        "image": "https://jaspeoriginal.es/cdn/shop/files/Camiseta_Basica_Blanca_2.jpg?v=1728372967&width=1445",
+        "link": "https://es.wallapop.com/",
+        "featured": true
+    },
+    {
+        "name": "Camiseta Negra",
+        "price": "24.99",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-FtA2mJydrvLlNLj8KrkL1at1pCNkYOc0Ry7RXDz0x17k6Nf00CXjKh577gHK8B4J5YOfn22_9Qb_v_RCHZ_GUBwgysrjT24YISVjs-WNAhcyPLg1jn-7oe-vpVyRIqgTbA&usqp=CAc",
+        "link": "https://es.wallapop.com/",
+        "featured": true
+    },
+    {
+        "name": "Camiseta Roja",
+        "price": "17.99",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYVYd0rn2iRr7xq_IHvkEQZRgsz-0NlZplCtCHhVRwKB65qsuwJJNQuoI41hZhgi3PjPUB-07dkC1WTf6yrzh4h-iBHX_EPcLLxvT1TMuara-VBRGMqKr-W-8ouTbAMntb_A&usqp=CAc",
+        "link": "https://es.wallapop.com/",
+        "featured": true
+    },
+    {
+        "name": "Camiseta Verde",
+        "price": "17.99",
+        "image": "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADrbWV0YQAAAAAAAAAhaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAAAAAAAOcGl0bQAAAAAAAQAAAB5pbG9jAAAAAEQAAAEAAQAAAAEAAAETAAADEQAAAChpaW5mAAAAAAABAAAAGmluZmUCAAAAAAEAAGF2MDFDb2xvcgAAAABqaXBycAAAAEtpcGNvAAAAFGlzcGUAAAAAAAAAmAAAAJgAAAAQcGl4aQAAAAADCAgIAAAADGF2MUOBAAwAAAAAE2NvbHJuY2x4AAIAAgAGgAAAABdpcG1hAAAAAAAAAAEAAQQBAoMEAAADGW1kYXQSAAoKGB3l5dggQEDQgDKABhIAAooooUDX/y/3q+Mtt4XsTB9BeDYHpUM8Og/9TdSb4xycnRmu8iB12f1V4lXmIiy3XQWGlnDXQw2RcE40hTrkPFb/MDuqQ+XWd1h+noaUkCo2M+s9K6s7UHe/k1YrFHnUebKDJWUVeN0hw1UUJq+sPqhaw0VgOyZhB/zF5/BDWuXO5YR7X7UONRdfJi/cmUeJG4PK1iAbjxCN5HmE397QYH+RozAGMIRWY04SHHHRhrJV7YsEK8uAGV6AKaj3pYhGxkM2TyuUfEPbH0Wox7Hatk/aVMzQ2jSLph0NuDzDWB4aT8beF2rM0k01+tmNuNrJNXeUnl+Z+nr0bnjYjyJWB3bmtpOs+/cqmiqXj1axIw0K+aPabLCqoZe/hNiDicrko2LXg063J9CauV7KRE3/LgvYMaYBrc9pT6c4cisG3899Y9V2rrH5ZudpOC7oRpep3aBBdIcQQw5huO7HiqiBvnem1j+Vg79924NSjvfOyl2D+QxatcAOb2xScgGnxSPd0zdg8MXaOSL3reWy5FQImOvvLPafraIprr/sMjANOocG0RR7FAOXdkURT5whiQhkME5vBdHfwxN5q04xeHGd5DouYlsjFbTBXB729mNmfnS7GZ001PpXU0Uy/1PMsv3wttb6AYnfeYxHMG1snrkzlApb26a/nn8fwGOu67WszukangSrEX9lC+Ql7xLDhOxynrTD09c09Ftbkx4weGuxVxrEDybwfdVjOW6l0YbFdHIpnQsY4oajDF6YK61fUPmDKv8XP5++AwJzngGvKUIfEqyh/uiPwecIJYLRz0nKschxLdwWs1bTa+4MwaYWhK5z8TLuoIs9IJoUcz9uJrq2DVZJXU0uu/PyZgWtWh61FXqxFJAGB/7b8Pgq+D//LxaDj/qfLe7f6gwRolmeg9RcH/OvkfGINSCetPXk3eUHx0Hz89SNSVKZWqoM/Mp6Xt92yPwiV9Tx9TPZjkt26sWKeFxeLX5No/LkBEhUC1VOTKd2gJ6yVBtlL6vQKWYoeg==",
+        "link": "https://es.wallapop.com/",
+        "featured": false
+    },
+    {
+        "name": "Camiseta Amarilla",
+        "price": "17.99",
+        "image": "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADrbWV0YQAAAAAAAAAhaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAAAAAAAOcGl0bQAAAAAAAQAAAB5pbG9jAAAAAEQAAAEAAQAAAAEAAAETAAACMwAAAChpaW5mAAAAAAABAAAAGmluZmUCAAAAAAEAAGF2MDFDb2xvcgAAAABqaXBycAAAAEtpcGNvAAAAFGlzcGUAAAAAAAAAmAAAAJgAAAAQcGl4aQAAAAADCAgIAAAADGF2MUOBAAwAAAAAE2NvbHJuY2x4AAIAAgAGgAAAABdpcG1hAAAAAAAAAAEAAQQBAoMEAAACO21kYXQSAAoKGB3l5dggQEDQgDKiBESAAKKKKFDX/yZH+1pm3LeCadfiw2gR1Q5SR+8FXHPP2WpuuprYnOuzXDAQ9RuEgIoa6BFTOOiEzIMwSgI+RRR+uf0nzP2UAfacbqWwdYckPTrNTr9i2qeVbc96JNaTUlybjLFqAXp3mfiSVFY3wSs03pt8yZPI2CmB0NEd83IaLKPfsEsWa0+EkfJdksDhybBzVWOu18Q4NNeL8kb3oIa1niGBdgQFzyIuDGxDw7TZXaDdQjnXJgQ+djUJpALtbkMJT/Uzkp1eLMpeUm1D5XctJD6AQ7/EFCdOmrTE02p3r/+61pU9FXK0pS2zptq4I17vnfyoJ67cBFhcFicWeqip9hSfsIGoO0vzC9rui7lEtYBsWPFzpvad4CYW6LKcAfARBxMYh+FYMe37+wlCpDF5cXHog3DPxkHHJ6HPGZJC/1/hbXgGHAvFVLUaebQpxFgf+ooNKqbt8Q0FUbhNJYQUrgrxpBH3JzpcVtxlPqsC9mxhs1qw2WTUEH1/6vA/zFfS6dwohjP7bkqXb2asWD1VxiVAYvZqOAQOZgHRfQdqO8oI/NcI0xOJq4WkONEfpw1G0RX5z3XQKu9lxxCVh7TIz3+gUz8rcQpum2f9Dqv+2EQDqnNmYIcUnoSx4YBiGT7eab/ESRwjBnYwObB74m/CJ09fBSkl2fusu5ou+IF3QXhde0BgdJVz+C4G5eB36YvkJandhUVj7vqqi0lhroSoYA==",
+        "link": "https://es.wallapop.com/",
+        "featured": false
+    },
+    {
+        "name": "Camiseta Azul",
+        "price": "17.99",
+        "image": "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADrbWV0YQAAAAAAAAAhaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAAAAAAAOcGl0bQAAAAAAAQAAAB5pbG9jAAAAAEQAAAEAAQAAAAEAAAETAAACsQAAAChpaW5mAAAAAAABAAAAGmluZmUCAAAAAAEAAGF2MDFDb2xvcgAAAABqaXBycAAAAEtpcGNvAAAAFGlzcGUAAAAAAAAAmAAAAJgAAAAQcGl4aQAAAAADCAgIAAAADGF2MUOBAAwAAAAAE2NvbHJuY2x4AAIAAgAGgAAAABdpcG1hAAAAAAAAAAEAAQQBAoMEAAACuW1kYXQSAAoKGB3l5dggQEDQgDKgBUSAAKKKKFDX/yZH+2IsNIWbiBpoKU5NZjx5voH6yETWey9qz33ubEXpDc06G7eLKY1ZkZMCg19cEhUzIIdzTAsLuFNPyqvXEozXkvmb4JNnWAUzzXsgfIl/BC0K3f8YlmtwZEucFP9hXaopJlIKVd3RBDFc9dBmI6jAdgnhK2GNQoONkzTAH3SkLpctrk4V/ccva/x3C7f6A5I/jhj7NAhPg4+5sdplCAwg5cksbHCBbBZ/sGol3oCggfDBB3bt5DFZbrnhYJgauu7xXYw5BoHfIbW8JoYeEznl/cVsGrVocYHrEQjQsIN2ANguhiJtm2ZwV6Gp+i5L96MvsGAaYTA4PneyslrBhj107xaJjOa9XqjWnV+vGWaF2YM1+cUafn2yf4aUXLjWRcUHxcle+Tj+wFxRDoVISrNN6zrLdzDo9mxGjl6kyLHZprw+SuDcfwRmfph0/SCzwjJFxL7+9HkSWnGGDujqzo5Siaq+3avpbOyFfKgoNcqyIqrJdSwVaELDauT8PKnckxyfMcuYYdlIXQEGrG+gR3Ja+hnrFfUuWYZ7Gn+Gp9jC24HI1oTHdDg/WFhWUk5GGG9SBlpeJlvTUTHOSJEcIMY+H3R1D0rotWoUgZqDcbH3Ycg06wP+ZGdU/dkqnKYUrzIguQTIJEQlUU+YZIQv+c4Wj8wRZ65NQnDBjSpNZroHyWMqpof0B5cRLkeGpxJLyY9sclLlIy8B0KtJfqhVDcoMg6HFZrQjIwPwkG1vcmkEWJarMhEfheqtaCI31ex3qpZ7xA26N2Nq+DCt9Y7gi7AvSH/5w3yLUE68M5STTnGsJ+mgugATuzLHWflx/QK7pbOsbXAe7T89tnFgN3pe6z+t8mks/d9HI6gyYxBzFjbMQFWttVHmJA==",
+        "link": "https://es.wallapop.com/",
+        "featured": false
+    },
+    {
+        "name": "Camiseta Rosa",
+        "price": "17.99",
+        "image": "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUIAAADrbWV0YQAAAAAAAAAhaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAAAAAAAOcGl0bQAAAAAAAQAAAB5pbG9jAAAAAEQAAAEAAQAAAAEAAAETAAACzAAAAChpaW5mAAAAAAABAAAAGmluZmUCAAAAAAEAAGF2MDFDb2xvcgAAAABqaXBycAAAAEtpcGNvAAAAFGlzcGUAAAAAAAAAmAAAAJgAAAAQcGl4aQAAAAADCAgIAAAADGF2MUOBAAwAAAAAE2NvbHJuY2x4AAIAAgAGgAAAABdpcG1hAAAAAAAAAAEAAQQBAoMEAAAC1G1kYXQSAAoKGB3l5dggQEDQgDK7BRIAAooooUDX/y/3rMWZKf4XIJPymbk58SdawrJeJZDfpF83MsExTtQXhVx95LRzKDt0bgbkhBYKIyVFB1/gyFdMzol5k1ZY4VBubaC6kno9IRw+VxEIrCgfCrtLkM5JARUlPS/2rzQw2S1OjAKmej2pkZIYoWW0l8R9nguO/wVV+g67Ut5xXTk6p3Euy6uT7cRKGzEVC3GkPV4fHaRJAN68nvwQuAGApjUJRjdbmueorypHOxurLF9xE/DmbAkJcUiwEennVnnLO5eZwQW8X98SkU0ddgQmaAQrkShz8NWx96na0Vh2F+Wtd6hnnW9mZjRSb4aqnMxJiE6/ucDbwTnYKoMHJNKwzOjY3/n/aEUSo5WV0K0zzgFwvyVcHvIl/59naKFh8EqBQ30TNKKv398cy4hhYroBN7H3TkRJ3FOQ4K5xgu5L6pgqUNJ7uLtFxGWCNrn80zWhRT1lvjLkwScLrq7dwP2DsXbPoSKkyJ50zO7EVJN8mlq8otwE94qbQ8xkLttBu3Z3D8HZ7unDAJZJL8vUnP/RzW4AdWTnyGS6uRkwo05KEm9KyeaFrQn/iiY0qxONvT4CMuG4A5+HTAtTBAJSUnBz3g4GKy/WeCctRRLRa5Vr/nVd77uZ0DejLxF6vfDJ/yeYefJI3kYEp8LBvcrpQgBp2PJSXEckcMMjpWuJ681LRNpbySmcizDqNa9rPZw0vXZ/5GfjgBVMokRd1y8P0M5y2l4w7qmuDgdfpzVqPY2zjO5UxS3ohYIPC9FGLs5fs3TnJCcWDYklExIq8QcvaUVSuBQVzfztQnpkZEF/xPS9QJ34W78xapkQyctnH45kdEj+eSwyWhllrKfvY16K2rHTFlPnpuvdJr1V8/ZKLlJbq09XXhIuh/3hSGj3/GcCWkozuN2ZVrwKcdnCTv8tpISpe3+1pA==",
+        "link": "https://es.wallapop.com/",
+        "featured": false
+    }
+]
